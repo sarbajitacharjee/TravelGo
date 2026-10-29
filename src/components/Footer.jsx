@@ -52,7 +52,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col gap-3 pt-6 text-xs text-white/50 sm:flex-row sm:items-center sm:justify-between">
-          {/* <p>© {new Date().getFullYear()} GoTravel. All rights reserved.</p> */}
+          
           <p>© 2026 GoTravel. All rights reserved.</p>
           <p>Made for curious travellers.</p>
         </div>
